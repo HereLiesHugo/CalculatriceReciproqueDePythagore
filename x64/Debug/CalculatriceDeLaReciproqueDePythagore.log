@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\gggam\OneDrive\Documents\Coding\VS2022\!Open Source Projects\CalcReciproquePythagore\CalculatriceDeLaReciproqueDePythagore\src\main.cpp(93,6): warning C4551: function call missing argument list
+C:\Users\gggam\OneDrive\Documents\Coding\VS2022\!Open Source Projects\CalcReciproquePythagore\CalculatriceDeLaReciproqueDePythagore\src\main.cpp(179,6): warning C4551: function call missing argument list
+  CalculatriceDeLaReciproqueDePythagore.vcxproj -> C:\Users\gggam\OneDrive\Documents\Coding\VS2022\!Open Source Projects\CalcReciproquePythagore\CalculatriceDeLaReciproqueDePythagore\x64\Debug\CalculatriceDeLaReciproqueDePythagore.exe
